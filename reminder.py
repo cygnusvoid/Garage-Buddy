@@ -5,8 +5,8 @@ from win10toast import ToastNotifier
 def timer (reminder,seconds):
     toaster = ToastNotifier()
 
-    toaster.show_toast(title = "Reminder", msg = "Alarm will go off in "+ str(seconds) + " minute(s).", icon_path = "C:/Users/Hobbs/Downloads/GB-wrench.ico", duration = seconds*60)
-    toaster.show_toast(title = "Reminder", msg = reminder, icon_path = "C:/Users/Hobbs/Downloads/GB-wrench.ico", duration = 3)
+    toaster.show_toast(title = "Garage Buddy: Reminder", msg = "New task: "+ str(words) +"\nYou will be notified in "+ str(seconds) + " minute(s).", icon_path = "C:/Users/Hobbs/OneDrive - Kennesaw State University/Documents/GitHub/Garage-Buddy/wrench.ico", duration = seconds*60)
+    toaster.show_toast(title = "Garage Buddy: Reminder", msg = reminder, icon_path = "C:/Users/Hobbs/OneDrive - Kennesaw State University/Documents/GitHub/Garage-Buddy/wrench.ico", duration = 60, threaded = True)
 
 #alarm sound, still within "timer" function
     frequency = 523
