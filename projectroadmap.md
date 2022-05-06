@@ -15,17 +15,17 @@ Sprint 2:
 
 Sprint 3:
 - [x] Continue coding & refining
-- [ ] Test code
+- [x] Test code
 - [x] Create one PowerPoint slide to introduce the project & upload it. Slide needs to include: members, title, tag line, and 1-2 screenshots.
 - [x] Upload PPT slide in D2L
 
 Final Part:
-- [ ] Answer questions below (see "Final Project Questions")
-- [ ] Prepare final presentation
-- [ ] Practice presentation
+- [x] Answer questions below (see "Final Project Questions")
+- [x] Prepare final presentation
+- [x] Practice presentation
 - [ ] Schedule & record presentation in the Teams Project channel
 - [ ] Post a screenshot & link it
-- [ ] Upload PPT here
+- [x] Upload PPT here
 
 Final Project Questions
 Project Presentations in Teams -> present in Teams Project Presentations channel (Project Presentations or Projects if there is no Project Presentations channel).
@@ -55,4 +55,3 @@ Present your project. To do so, follow these instructions. Be sure to record, as
 
 When you finish, end the recording and let it upload for a minute or two before closing Teams. That's it. Remember, you may need to practice in advance to ensure your Teams setup is ready for presenting. Learn how to share your screen so you can show your code and any PPTs you develop.
 
-test
