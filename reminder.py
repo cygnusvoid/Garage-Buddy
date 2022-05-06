@@ -5,7 +5,7 @@ from win10toast import ToastNotifier
 def timer (reminder,seconds):
     toaster = ToastNotifier
 
-    toaster.show_toast ("Reminder", f """Alarm will go off in (seconds) seconds.""", duration = 20)
+    toaster.show_toast (title="Reminder", msg="Alarm will go off in (seconds) seconds.", icon_path=None , duration = 20)
     toaster.show_toast (f"Reminder", reminder, duration = 20)
 
 #alarm sound, still within "timer" function
